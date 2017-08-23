@@ -1,6 +1,6 @@
 # Designer Theme
 
-Designer Theme is a one page portfolio for designers based on the [Agency](https://themes.gohugo.io/theme/agency/) and [Phugo](https://github.com/aerohub/phugo) themes. Like the Agency, this Hugo theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a timeline, and a contact form. The difference is in the portfolio project page layout. It uses the gallery from Phugo to display the pictures related to the project.
+Designer Theme is a one page portfolio for designers based on the [Agency](https://themes.gohugo.io/theme/agency/) and [Phugo](https://github.com/aerohub/phugo) themes. Like the Agency, this Hugo theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a timeline, and a contact form. The difference is in the portfolio project page layout. It uses the gallery from Phugo to display a gallery of images related to the project.
 
 ![Hugo Designer Theme screenshot](https://raw.githubusercontent.com/ihor/HugoDesignerTheme/master/images/screenshot.png)
 
