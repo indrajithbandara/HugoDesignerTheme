@@ -22,7 +22,7 @@ After installing the Designer Theme successfully it requires a just a few more s
 
 ### The config file
 
-Take a look inside the [`exampleSite`](//github.com/ihor/HugoDesignerTheme/tree/master/exampleSite) folder of this theme. You'll find a file called [`config.toml`](//github.com/ihor/HugoDesignerTheme/blob/master/exampleSite/config.toml). To use it, copy the [`config.toml`](//github.com/ihor/HugoDesignerTheme/blob/master/exampleSite/config.toml) in the root folder of your Hugo site. Feel free to change the strings in this theme.
+Take a look inside the [`exampleSite`](//github.com/ihor/HugoDesignerTheme/tree/master/exampleSite) folder of this theme. You'll find a file called [`config.toml`](//github.com/ihor/HugoDesignerTheme/blob/master/exampleSite/config.toml). To use it, copy the [`config.toml`](//github.com/ihor/HugoDesignerTheme/blob/master/exampleSite/config.toml) in the root folder of your Hugo site. Feel free to change the strings in this theme. You can check the live example [here](https://in2o.github.io/).
 
 
 ### Change the hero background
