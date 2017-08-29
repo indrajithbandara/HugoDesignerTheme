@@ -9,7 +9,7 @@
     </div>
     <div class="row">
       {{ range $category := .Site.Data.categories }}
-      
+
 
         <div class="col-md-4 col-sm-6 portfolio-item">
           <a href="/{{ $category.path }}" class="portfolio-link">
@@ -18,7 +18,7 @@
                 <i class="fa fa-plus fa-3x"></i>
               </div>
             </div>
-            <img src="img/portfolio/{{ $category.preview }}" class="img-responsive" alt="">
+            <img src="/{{ $category.preview }}" class="img-responsive" alt="">
           </a>
           <div class="portfolio-caption">
             <h4>{{ $category.title | markdownify }}</h4>
